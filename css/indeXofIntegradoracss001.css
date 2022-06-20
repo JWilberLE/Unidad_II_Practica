@@ -1,0 +1,40 @@
+
+h1,h2{
+    color: rgb(0, 175, 116);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    
+} 
+
+
+
+li a {
+    display: inline;
+    color: aliceblue;
+    font-size: 20px;
+}
+img{
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+ }
+ li{
+    float: left;
+ }
+
+ li a {
+    display: block;
+    padding: 8px;
+    background-color: #000000ca;
+ }
+
+
+ul{
+    margin: 10px;
+    padding: 10px;
+}
